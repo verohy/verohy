@@ -1,12 +1,14 @@
-## Hello world 👋 I'm Veronica from Chile 🗿 🌄
+## Hello world👋 I'm Veronica from Chile 🌄🗿
 
 ### 🚀 **Senior Data Scientist | AI & ML Enthusiast**
 
 Experienced in project management and business process improvement, with a strong background in end-to-end BI and analytics solutions. Passionate about AI/ML, and its application in real life and healthcare.
 
-<br>
 
-💡 **Interests:** * Healthcare * Languages * Outdoor adventures (especially the mountains!)
+💡 **Interests:**
+* Healthcare
+* Languages
+* Outdoor adventures (especially the mountains!)
 
 🔗 **Open to pro bono collaborations**
 
