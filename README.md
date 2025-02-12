@@ -4,17 +4,21 @@
 
 Experienced in project management and business process improvement, with a strong background in end-to-end BI and analytics solutions. Passionate about AI/ML, and its application in real life. I normally use Python.
 
+<br>
+
 💡 **Interests:** * Healthcare * Languages * Outdoor adventures (especially the mountains!)
 
 🔗 **Open to pro bono collaborations**
 
-### Let's connect 🤝 and discuss your favorite ML models!
+🤝 Let's connect and discuss your favorite ML models!
 
 <div align="left">
   <a href="https://www.linkedin.com/in/verohy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="30" alt="linkedin logo"  />
   </a>
 </div>
+
+<br>
 
 ### Tech Stack 🛠️
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
