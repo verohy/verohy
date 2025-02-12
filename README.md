@@ -2,7 +2,7 @@
 
 ### 🚀 **Senior Data Scientist | AI & ML Enthusiast**
 
-Experienced in project management and business process improvement, with a strong background in end-to-end BI and analytics solutions. Passionate about AI/ML, and its application in real life. I normally use Python.
+Experienced in project management and business process improvement, with a strong background in end-to-end BI and analytics solutions. Passionate about AI/ML, and its application in real life and healthcare.
 
 <br>
 
@@ -20,7 +20,8 @@ Experienced in project management and business process improvement, with a stron
 
 <br>
 
-### Tech Stack 🛠️
+🛠️ Tech Stack
+
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
