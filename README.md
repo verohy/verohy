@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello world 👋 I'm Veronica from Chile 🗿 🌄
 
-<!--
-**verohy/verohy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 **Senior Data Scientist | AI & ML Enthusiast**
 
-Here are some ideas to get you started:
+Experienced in project management and business process improvement, with a strong background in end-to-end BI and analytics solutions. Passionate about AI/ML, and its application in real life. I normally use Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **Interests:** * Healthcare * Languages * Outdoor adventures (especially the mountains!)
+
+🔗 **Open to pro bono collaborations**
+
+### Let's connect 🤝 and discuss your favorite ML models!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/verohy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="39" height="30" alt="linkedin logo"  />
+  </a>
+</div>
+
+### Tech Stack 🛠️
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### GitHub Stats 📊
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=verohy&show_icons=true&theme=radical)
